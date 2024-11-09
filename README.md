@@ -7,4 +7,5 @@
 | 11.06 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | 그래프 | 프로그래머스 | LV.3 |
 | 11.07 | [스타 수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130) | 그래프 | 프로그래머스 | LV.3 |
 | 11.08 | [풍선 터뜨리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646) | 그래프 | 프로그래머스 | LV.3 |
-| 11.09 | [경주로 건설](hhttps://school.programmers.co.kr/learn/courses/30/lessons/67259) | BFS | 프로그래머스 | LV.3 |
+| 11.09 | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | BFS | 프로그래머스 | LV.3 |
+| 11.10 | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | 투포인터 | 프로그래머스 | LV.3 |
