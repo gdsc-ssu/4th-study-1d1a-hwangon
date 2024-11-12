@@ -10,3 +10,4 @@
 | 11.09 | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | BFS | 프로그래머스 | LV.3 |
 | 11.10 | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | 투포인터 | 프로그래머스 | LV.3 |
 | 11.11 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | 구현 | 프로그래머스 | LV.3 |
+| 11.12 | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | 이분탐색 | 프로그래머스 | LV.3 |
