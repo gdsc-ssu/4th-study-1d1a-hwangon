@@ -12,3 +12,7 @@
 | 11.11 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | 구현 | 프로그래머스 | LV.3 |
 | 11.12 | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | 이분탐색 | 프로그래머스 | LV.3 |
 | 11.13 | [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063) | 이분탐색 | 프로그래머스 | LV.3 |
+| 11.14 | 실패.. |  |  |  |
+| 11.15 | 실패.. |  |  |  |
+| 11.16 | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | 구현 | 프로그래머스 | LV.3 |
+| 11.17 | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | 구현 | 프로그래머스 | LV.3 |
