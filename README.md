@@ -17,3 +17,4 @@
 | 11.16 | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | 구현 | 프로그래머스 | LV.3 |
 | 11.17 | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | 구현 | 프로그래머스 | LV.3 |
 | 11.18 | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | 구현 | 프로그래머스 | LV.3 |
+| 11.19 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | 그래프 | 프로그래머스 | LV.3 |
