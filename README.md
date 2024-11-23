@@ -20,4 +20,5 @@
 | 11.19 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | 그래프 | 프로그래머스 | LV.3 |
 | 11.20 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | 그래프 | 프로그래머스 | LV.3 |
 | 11.21 | [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | 이분탐색 | 프로그래머스 | LV.3 |
-| 11.21 | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | DFS | 프로그래머스 | LV.3 |
+| 11.22 | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | DFS | 프로그래머스 | LV.3 |
+| 11.23 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | BFS | 프로그래머스 | LV.3 |
