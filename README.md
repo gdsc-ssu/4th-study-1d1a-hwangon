@@ -23,3 +23,4 @@
 | 11.22 | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | DFS | 프로그래머스 | LV.3 |
 | 11.23 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | BFS | 프로그래머스 | LV.3 |
 | 11.24 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | DFS | 프로그래머스 | LV.3 |
+| 11.24 | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | 구현 | 프로그래머스 | LV.3 |
