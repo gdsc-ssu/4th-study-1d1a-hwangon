@@ -27,3 +27,4 @@
 | 11.26 | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | Greedy | 프로그래머스 | LV.3 |
 | 11.27 | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | 그래프 | 프로그래머스 | LV.3 |
 | 11.28 | [구현](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 그래프 | 프로그래머스 | LV.3 |
+| 11.29 | [구현](rogrammers.co.kr/learn/courses/30/lessons/42627) | 그래프 | 프로그래머스 | LV.3 |
