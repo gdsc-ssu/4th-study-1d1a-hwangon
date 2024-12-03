@@ -26,5 +26,9 @@
 | 11.25 | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | 구현 | 프로그래머스 | LV.3 |
 | 11.26 | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | Greedy | 프로그래머스 | LV.3 |
 | 11.27 | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | 그래프 | 프로그래머스 | LV.3 |
-| 11.28 | [구현](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 그래프 | 프로그래머스 | LV.3 |
-| 11.29 | [구현](rogrammers.co.kr/learn/courses/30/lessons/42627) | 그래프 | 프로그래머스 | LV.3 |
+| 11.28 | [이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 구현 | 프로그래머스 | LV.3 |
+| 11.29 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | 구현 | 프로그래머스 | LV.3 |
+| 11.30 | 실패.. |  |  |  |
+| 12.01 | 실패.. |  |  |  |
+| 12.02 | 실패.. |  |  |  |
+| 11.03 | [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 구현 | 프로그래머스 | LV.3 |
