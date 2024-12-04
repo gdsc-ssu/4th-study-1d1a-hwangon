@@ -31,4 +31,5 @@
 | 11.30 | 실패.. |  |  |  |
 | 12.01 | 실패.. |  |  |  |
 | 12.02 | 실패.. |  |  |  |
-| 11.03 | [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 구현 | 프로그래머스 | LV.3 |
+| 12.03 | [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 구현 | 프로그래머스 | LV.3 |
+| 12.04 | [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | 구현 | 프로그래머스 | LV.3 |
