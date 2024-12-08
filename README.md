@@ -36,3 +36,4 @@
 | 12.05 | [추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676) | 구현 | 프로그래머스 | LV.3 |
 | 12.06 | 실패.. | 구현 | 프로그래머스 | LV.3 |
 | 12.07 | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | 구현 | 프로그래머스 | LV.3 |
+| 12.08 | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | 구현 | 프로그래머스 | LV.3 |
