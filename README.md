@@ -34,6 +34,11 @@
 | 12.03 | [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 구현 | 프로그래머스 | LV.3 |
 | 12.04 | [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | 구현 | 프로그래머스 | LV.3 |
 | 12.05 | [추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676) | 구현 | 프로그래머스 | LV.3 |
-| 12.06 | 실패.. | 구현 | 프로그래머스 | LV.3 |
+| 12.06 | 실패.. |  |  |  |
 | 12.07 | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | 구현 | 프로그래머스 | LV.3 |
 | 12.08 | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | 구현 | 프로그래머스 | LV.3 |
+| 12.09 | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | 구현 | 프로그래머스 | LV.3 |
+| 12.10 | 실패.. |  |  |  |
+| 12.11 | 실패.. |  |  |  |
+| 12.12 | 실패.. |  |  |  |
+| 12.09 | [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 이분 탐색 | 프로그래머스 | LV.3 |
