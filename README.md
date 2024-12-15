@@ -41,4 +41,6 @@
 | 12.10 | 실패.. |  |  |  |
 | 12.11 | 실패.. |  |  |  |
 | 12.12 | 실패.. |  |  |  |
-| 12.09 | [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 이분 탐색 | 프로그래머스 | LV.3 |
+| 12.13 | [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 이분 탐색 | 프로그래머스 | LV.3 |
+| 12.14 | 실패.. |  |  |  |
+| 12.15 | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | 구현 | 프로그래머스 | LV.3 |
